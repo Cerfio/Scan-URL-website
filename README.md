@@ -1,4 +1,4 @@
-# Purpose of the project
+# Purpose project
     Scan a website for find all URL.
 # Start
     gem install colorize
